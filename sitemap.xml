@@ -5,6 +5,78 @@
     
     <url>
     
+      <loc>http://arvindkiyer.com/publications_selected/</loc>
+      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/talks/</loc>
+      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/posts/</loc>
+      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/projects/</loc>
+      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/teaching/</loc>
+      <lastmod>2016-04-20T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/tags/</loc>
+      <lastmod>2017-09-20T00:00:00+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/publication/my-paper-name/</loc>
+      <lastmod>2018-05-21T01:51:26+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/publication/flavordb/</loc>
+      <lastmod>2017-10-20T02:17:54+05:30</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://arvindkiyer.com/post/</loc>
       <lastmod>2017-01-01T00:00:00+05:30</lastmod>
     </url>
@@ -32,6 +104,16 @@
     
     <url>
     
+      <loc>http://arvindkiyer.com/publication_types/2/</loc>
+      <lastmod>2018-05-21T01:51:26+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://arvindkiyer.com/</loc>
       <lastmod>2016-04-20T00:00:00+05:30</lastmod>
       <priority>0</priority>
@@ -51,7 +133,28 @@
     
     <url>
     
+      <loc>http://arvindkiyer.com/tags/lsh/</loc>
+      <lastmod>2018-05-21T01:51:26+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>http://arvindkiyer.com/publication_types/</loc>
+      <lastmod>2018-05-21T01:51:26+05:30</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>http://arvindkiyer.com/tags/single-cell/</loc>
+      <lastmod>2018-05-21T01:51:26+05:30</lastmod>
       <priority>0</priority>
     </url>
     
@@ -61,6 +164,7 @@
     <url>
     
       <loc>http://arvindkiyer.com/tags/</loc>
+      <lastmod>2018-05-21T01:51:26+05:30</lastmod>
       <priority>0</priority>
     </url>
     

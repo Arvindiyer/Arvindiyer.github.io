@@ -1,14 +1,89 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Academic on Academic</title>
+    <title>Arvind Iyer on Arvind Iyer</title>
     <link>http://arvindkiyer.com/</link>
-    <description>Recent content in Academic on Academic</description>
+    <description>Recent content in Arvind Iyer on Arvind Iyer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
+    <copyright>Arvind Iyer&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>http://arvindkiyer.com/publications_selected/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>http://arvindkiyer.com/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>http://arvindkiyer.com/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://arvindkiyer.com/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Custom Section</title>
+      <link>http://arvindkiyer.com/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/teaching/</guid>
+      <description>&lt;p&gt;This is an example of using the &lt;em&gt;custom&lt;/em&gt; widget to create your own homepage section.&lt;/p&gt;
+
+&lt;p&gt;To remove this section, either delete &lt;code&gt;content/home/teaching.md&lt;/code&gt; or edit the frontmatter of the file to deactivate the widget by setting &lt;code&gt;active = false&lt;/code&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>http://arvindkiyer.com/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CellAtlasSearch: a scalable search engine for single cells</title>
+      <link>http://arvindkiyer.com/publication/my-paper-name/</link>
+      <pubDate>Mon, 21 May 2018 01:51:26 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/publication/my-paper-name/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FlavorDB: a database of flavor molecules</title>
+      <link>http://arvindkiyer.com/publication/flavordb/</link>
+      <pubDate>Fri, 20 Oct 2017 02:17:54 +0530</pubDate>
+      
+      <guid>http://arvindkiyer.com/publication/flavordb/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
