@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Arvind Iyer</title>
+    <link>http://www.arvindkiyer.com/page/</link>
+    <description>Recent content in Pages on Arvind Iyer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 10 Jun 2018 22:00:25 +0800</lastBuildDate>
+    
+	<atom:link href="http://www.arvindkiyer.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>http://www.arvindkiyer.com/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.arvindkiyer.com/research/</guid>
+      <description>Current Research   Genomic Dependencies in Cancer Cancer evolution is driven by the emergence and selection of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding which alterations are selected and in which contexts do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent.</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>http://www.arvindkiyer.com/publication/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>http://www.arvindkiyer.com/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>http://www.arvindkiyer.com/contact/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>http://www.arvindkiyer.com/contact/</guid>
+      <description>Email is the best way to reach me.
+Details Arvind Iyer
+Computational Systems Onclogy Lab
+Quartier UNIL-Sorge
+Génopode Building
+Office: 2016.2
+CH-1015 Lausanne
+Email: arvind.iyer@unil.ch</description>
+    </item>
+    
+  </channel>
+</rss>
