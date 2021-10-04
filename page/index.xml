@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>Talks</title>
+      <link>http://www.arvindkiyer.com/talk/</link>
+      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
+      
+      <guid>http://www.arvindkiyer.com/talk/</guid>
+      <description>One day workshop on Data Science Using R (2018) I gave a hands on session on using PCA for perfoming dimensionalty reduction of data in R. The workshop page is availabe at this (link). The talk can be found in youtube via this (link).   Short Guide to dive into scRNA seq analysis (2020) I recorded a video tutorial for performing scRNA seq analysis as part of KeepScienceGoing Initative during the covid times for others to learn doing analysis of scRNA seq data from scratch.</description>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>http://www.arvindkiyer.com/contact/</link>
       <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>

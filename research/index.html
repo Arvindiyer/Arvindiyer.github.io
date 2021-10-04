@@ -4,11 +4,11 @@
 <script src="https://kit.fontawesome.com/5e6a8c1a2b.js" crossorigin="anonymous"></script><head>
   <meta charset='utf-8'>
 <meta name='viewport' content='width=device-width, initial-scale=1'>
-<meta name='description' content='A  list of my current research interests, and  projects that I am working upon!'>
+<meta name='description' content='A  list of my current, past research interests, and  projects that I am working upon!'>
 <meta name='theme-color' content='#ff5722'>
 
 <meta property='og:title' content='Research • Arvind Iyer'>
-<meta property='og:description' content='A  list of my current research interests, and  projects that I am working upon!'>
+<meta property='og:description' content='A  list of my current, past research interests, and  projects that I am working upon!'>
 <meta property='og:url' content='http://www.arvindkiyer.com/research/'>
 <meta property='og:site_name' content='Arvind Iyer'>
 <meta property='og:type' content='article'><meta property='article:section' content='page'><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@arvind_k_iyer'>
@@ -52,6 +52,7 @@
   <a href='/'>Home</a></li><li class='item current'>
   <a aria-current='page' href='/research/'>Research</a></li><li class='item'>
   <a href='/publication/'>Publications</a></li><li class='item'>
+  <a href='/talk/'>Talks</a></li><li class='item'>
   <a href='/contact/'>Contact</a></li></ul>
     </div>
   </nav>
@@ -142,6 +143,8 @@
       </li><li class='item'>
         <a href='/publication/'>Publications</a>
       </li><li class='item'>
+        <a href='/talk/'>Talks</a>
+      </li><li class='item'>
         <a href='/contact/'>Contact</a>
       </li><li class='item'>
         <a href='/cv.pdf'>CV</a>
@@ -168,7 +171,7 @@
     <div class='header-info'>
       <h1 class='title'>Research</h1>
       
-<p class='desc'>A  list of my current research interests, and  projects that I am working upon!</p>
+<p class='desc'>A  list of my current, past research interests, and  projects that I am working upon!</p>
 
 
     </div>
@@ -183,7 +186,22 @@
 <ul>
 <li>
 <h6 id="genomic-dependencies-in-cancer">Genomic Dependencies in Cancer</h6>
-Cancer evolution is driven by the emergence and selection of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding which alterations are selected and in which contexts do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent. The discovery of selected alterations and EDs has so far mostly focused on genetic variants targeting coding genes. Epigenetic alterations have been only partially analyzed, and recurrence-based approaches have been shown unsuitable to study non-coding mutations. Currently working on the expanding the previous work done by <a href="https://doi.org/10.1016/j.ccell.2017.06.010">(Mina et al)</a> to infer non-coding functional alterations and explore their associations with coding variants and functional phenotypes.</li>
+Cancer evolution is driven by the emergence and selection of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding which alterations are selected and in which contexts do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent. The discovery of selected alterations and EDs has so far mostly focused on genetic variants targeting coding genes. Epigenetic alterations have been only partially analyzed, and recurrence-based approaches have been shown unsuitable to study non-coding mutations. Currently working on expanding the previous work done by <a href="https://doi.org/10.1016/j.ccell.2017.06.010">(Mina et al)</a> to infer non-coding functional alterations and explore their associations with coding variants and functional phenotypes.</li>
+</ul>
+<h2 id="previous-research-topics">Previous Research Topics</h2>
+<ul>
+<li>
+<h6 id="integrative-analysis-and-machine-learning-based-characterization-of-single-circulating-tumor-cells">Integrative Analysis and Machine Learning based Characterization of Single Circulating Tumor Cells</h6>
+<p>Cancer cells, after detaching from solid tumors migrate through the bloodstream to colonize at distant organs, leading to the development of cancer metastases. Cancer cells under circulation are called circulating tumor cells (CTCs). I worked on the project of integrative analysis of CTCs under Prof Debarka Sengupta <a href="www.debarka.com">(lab)</a> where we collated publicly available single-cell expression profiles of circulating tumor cells (CTCs) and showed that CTCs across cancers lie on a near-perfect continuum of epithelial to mesenchymal (EMT) transition. Integrative analysis of CTC transcriptomes also highlighted the inverse gene expression pattern between PD-L1 and MHC, which is implicated in cancer immunotherapy. More information about the work is published and can be read <a href="https://www.mdpi.com/2077-0383/9/4/1206">(here)</a></p>
+</li>
+<li>
+<h6 id="search-of-scrna-seq-profiles-using-gpu">Search of scRNA-seq profiles using GPU</h6>
+<p>An explosion in production of single-cell expression data has triggered the need for a search engine. To cater to the need of the hour, we developed CellAtlasSearch, a novel search architecture for high dimensional expression data, which is massively parallel as well as light-weight, thus infinitely scalable. In CellAtlasSearch, we use a Graphical Processing Unit (GPU) friendly version of Locality Sensitive Hashing (LSH) for unmatched speedup in data processing and query. Currently, CellAtlasSearch features over 300 000 reference expression profiles including both bulk and single-cell data. I worked on this project under Prof Debarka Sengupta <a href="www.debarka.com">(lab)</a>. The server can be explored at this <a href="http://cellatlassearch.com/">(link)</a> and paper can be read <a href="https://academic.oup.com/nar/article/46/W1/W141/5000022">(here)</a></p>
+</li>
+<li>
+<h6 id="revealing-dynamic-architecture-of-lipidated-proteins">Revealing Dynamic Architecture of Lipidated Proteins</h6>
+<p>Proteins Post-Translational Modifications (PTMs) act as a multi-layered regulation mechanism for selective and controlled expression of cellular proteins. Lipidated proteins are one of the major components of virtually all cells, whereby lipid chains are attached covalently to the target residue site. We performed a proteome-scale integrated analysis on ∼10,000 unique lipidated  proteins  using  publicly  available  repositories and identified &gt;3,00,000 protein orthologs. The results of this comprehensive study show that location of lipid modification site  is  rapidly  evolving  and,  is  highly  coupled  with protein  function  and  location. We also build a neural network classifier to predict lipidation site. I worked on this project as my Master thesis under Prof Lipi Thukral <a href="https://www.igib.res.in/?q=LipiThukral">(lab)</a> and Prof Angshul Majumdar <a href="http://faculty.iiitd.ac.in/~angshul/">(lab)</a></p>
+</li>
 </ul>
 
 </div>
@@ -204,7 +222,7 @@ Cancer evolution is driven by the emergence and selection of genomic alterations
       <footer id='footer' class='footer'>
         <div class='container sep-before'>Powered by <a title="Hugo" href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> and <a title="Minimo" href="https://themes.gohugo.io/minimo/" target="_blank" rel="noopener">Minimo Theme (modified)</a>
 <div class='copyright'>
-  <p>Copyright &copy; 2020 Arvind Iyer </p>
+  <p>Copyright &copy; 2021 Arvind Iyer </p>
 </div>
 
         </div>
