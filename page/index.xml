@@ -4,54 +4,37 @@
     <title>Pages on Arvind Iyer</title>
     <link>http://www.arvindkiyer.com/page/</link>
     <description>Recent content in Pages on Arvind Iyer</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Jun 2018 22:00:25 +0800</lastBuildDate>
-    
-	<atom:link href="http://www.arvindkiyer.com/page/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://www.arvindkiyer.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
       <link>http://www.arvindkiyer.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>http://www.arvindkiyer.com/research/</guid>
-      <description>Current Research   Genomic Dependencies in Cancer Cancer evolution is driven by the emergence and selection of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding which alterations are selected and in which contexts do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent.</description>
+      <description>&lt;h2 id=&#34;current-research&#34;&gt;Current Research&lt;/h2&gt;&#xA;&lt;div class=&#34;w3-row&#34;&gt;&#xA;    &lt;div class=&#34;w3-col m4 l3 w3-center&#34; style=&#34;padding-right: 20px;&#34;&gt;&#xA;      &lt;img src=&#34;http://www.arvindkiyer.com/images/select_sim.png&#34; alt=&#34;Genomic Dependencies&#34;  class=&#34;w3-image &#34; style=&#34;max-width: 100%; margin: 0 auto;&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;w3-col m8 l9&#34;&gt;&#xA;     &lt;p&gt;&lt;h5 id=&#34;genomic-dependencies-in-cancer&#34;&gt;Genomic Dependencies in Cancer&lt;/h5&gt;&#xA;&lt;p&gt;Cancer evolution is driven by the &lt;strong&gt;emergence and selection&lt;/strong&gt; of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding &lt;em&gt;which alterations are selected and in which contexts&lt;/em&gt; do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent. Currently working on expanding the previous work done by &lt;a href=&#34;https://doi.org/10.1016/j.ccell.2017.06.010&#34;&gt;(Mina et al)&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Publications</title>
       <link>http://www.arvindkiyer.com/publication/</link>
       <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
-      
       <guid>http://www.arvindkiyer.com/publication/</guid>
-      <description></description>
+      <description>&lt;p&gt;For a complete list check my &lt;a href=&#34;https://scholar.google.com/citations?user=7ISycOUAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
-      <title>Talks</title>
+      <title>Talks and Courses</title>
       <link>http://www.arvindkiyer.com/talk/</link>
-      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
-      
+      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.arvindkiyer.com/talk/</guid>
-      <description>One day workshop on Data Science Using R (2018) I gave a hands on session on using PCA for perfoming dimensionalty reduction of data in R. The workshop page is availabe at this (link). The talk can be found in youtube via this (link).   Short Guide to dive into scRNA seq analysis (2020) I recorded a video tutorial for performing scRNA seq analysis as part of KeepScienceGoing Initative during the covid times for others to learn doing analysis of scRNA seq data from scratch.</description>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;data-visulaization-with-ggplot2-2024&#34;&gt;Data Visulaization with ggplot2 (2024)&lt;/h6&gt;&#xA;I developed a &lt;strong&gt;short course&lt;/strong&gt; for doing data visulaization with ggplot2 in &lt;code&gt;R&lt;/code&gt;. The workshop page is availabe at this &lt;a href=&#34;https://arvindkiyer.com/data_visualization_with_ggplot/&#34;&gt;(link)&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;one-day-workshop-on-data-science-using-r-2018&#34;&gt;One day workshop on data science using R (2018)&lt;/h6&gt;&#xA;&lt;p&gt;I gave a &lt;strong&gt;hands on session on using PCA&lt;/strong&gt; for perfoming dimensionalty reduction of data in &lt;code&gt;R&lt;/code&gt;. The workshop page is availabe at this &lt;a href=&#34;https://sites.google.com/iiitd.ac.in/datascience&#34;&gt;(link)&lt;/a&gt;. The talk can be found in youtube via this &lt;a href=&#34;https://youtu.be/bQbHP04_Oc4?t=25655&#34;&gt;(link)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;short-guide-to-dive-into-scrna-seq-analysis-2020&#34;&gt;Short Guide to dive into scRNA seq analysis (2020)&lt;/h6&gt;&#xA;&lt;p&gt;I recorded a &lt;strong&gt;video tutorial&lt;/strong&gt; for performing &lt;strong&gt;scRNA seq analysis&lt;/strong&gt; as part of KeepScienceGoing Initative during the covid times for others to learn doing analysis of scRNA seq data from scratch. The video is embedded below. More details can be found at this &lt;a href=&#34;http://keepsciencegoing.org/ksg_tutorial_scrnaseq.html&#34;&gt;(link)&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>Contact</title>
       <link>http://www.arvindkiyer.com/contact/</link>
       <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
-      
       <guid>http://www.arvindkiyer.com/contact/</guid>
-      <description>Email is the best way to reach me.
-Details Arvind Iyer
-Computational Systems Onclogy Lab
-Quartier UNIL-Sorge
-Génopode Building
-Office: 2016.2
-CH-1015 Lausanne
-Email: arvind.iyer@unil.ch</description>
+      <description>&lt;p&gt;Email is the best way to reach me.&lt;/p&gt;&#xA;&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arvind Iyer&lt;/strong&gt;&lt;br&gt;&#xA;Ph.D in Quantitative Biology&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:arvind.iyer@unil.ch&#34;&gt;arvind.iyer@unil.ch&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

@@ -13,7 +13,7 @@
 <meta property='og:site_name' content='Arvind Iyer'>
 <meta property='og:type' content='article'><meta property='article:section' content='page'><meta name='twitter:card' content='summary'><meta name='twitter:site' content='@arvind_k_iyer'>
 
-<meta name="generator" content="Hugo 0.72.0" />
+<meta name="generator" content="Hugo 0.139.0">
 
   <title>Research • Arvind Iyer</title>
   <link rel='canonical' href='http://www.arvindkiyer.com/research/'>
@@ -23,6 +23,7 @@
 <link rel='stylesheet' href='/assets/css/main.ab98e12b.css'><link rel='stylesheet' href='/css/custom.css'><style>
 :root{--color-accent:#ff5722;}
 </style>
+
 
   
 
@@ -156,7 +157,7 @@
 
       <header id='header' class='header site-header'>
         <div class='container sep-after'>
-          <div class='header-info'><p class='site-title title'>Arvind Iyer</p><p class='desc site-desc'>PhD Student</p>
+          <div class='header-info'><p class='site-title title'>Arvind Iyer</p><p class='desc site-desc'>PhD in Quantitative Biology</p>
             <p class='desc site-desc'>University of Lausanne</p>
           </div>
         </div>
@@ -183,26 +184,60 @@
   
   <div class='w3-container entry-content' style="text-align: justify;">
   <h2 id="current-research">Current Research</h2>
-<ul>
-<li>
-<h6 id="genomic-dependencies-in-cancer">Genomic Dependencies in Cancer</h6>
-Cancer evolution is driven by the emergence and selection of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding which alterations are selected and in which contexts do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent. The discovery of selected alterations and EDs has so far mostly focused on genetic variants targeting coding genes. Epigenetic alterations have been only partially analyzed, and recurrence-based approaches have been shown unsuitable to study non-coding mutations. Currently working on expanding the previous work done by <a href="https://doi.org/10.1016/j.ccell.2017.06.010">(Mina et al)</a> to infer non-coding functional alterations and explore their associations with coding variants and functional phenotypes.</li>
-</ul>
+<div class="w3-row">
+    <div class="w3-col m4 l3 w3-center" style="padding-right: 20px;">
+      <img src="/images/select_sim.png" alt="Genomic Dependencies"  class="w3-image " style="max-width: 100%; margin: 0 auto;">
+    </div>
+    <div class="w3-col m8 l9">
+     <p><h5 id="genomic-dependencies-in-cancer">Genomic Dependencies in Cancer</h5>
+<p>Cancer evolution is driven by the <strong>emergence and selection</strong> of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding <em>which alterations are selected and in which contexts</em> do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent. Currently working on expanding the previous work done by <a href="https://doi.org/10.1016/j.ccell.2017.06.010">(Mina et al)</a>.</p>
+<p>Checkout the <a href="https://github.com/CSOgroup/SelectSim">(SelectSim)</a> package developed for the same.</p>
+</p> 
+    </div>
+</div>
 <h2 id="previous-research-topics">Previous Research Topics</h2>
 <ul>
 <li>
 <h6 id="integrative-analysis-and-machine-learning-based-characterization-of-single-circulating-tumor-cells">Integrative Analysis and Machine Learning based Characterization of Single Circulating Tumor Cells</h6>
-<p>Cancer cells, after detaching from solid tumors migrate through the bloodstream to colonize at distant organs, leading to the development of cancer metastases. Cancer cells under circulation are called circulating tumor cells (CTCs). I worked on the project of integrative analysis of CTCs under Prof Debarka Sengupta <a href="www.debarka.com">(lab)</a> where we collated publicly available single-cell expression profiles of circulating tumor cells (CTCs) and showed that CTCs across cancers lie on a near-perfect continuum of epithelial to mesenchymal (EMT) transition. Integrative analysis of CTC transcriptomes also highlighted the inverse gene expression pattern between PD-L1 and MHC, which is implicated in cancer immunotherapy. More information about the work is published and can be read <a href="https://www.mdpi.com/2077-0383/9/4/1206">(here)</a></p>
-</li>
-<li>
-<h6 id="search-of-scrna-seq-profiles-using-gpu">Search of scRNA-seq profiles using GPU</h6>
-<p>An explosion in production of single-cell expression data has triggered the need for a search engine. To cater to the need of the hour, we developed CellAtlasSearch, a novel search architecture for high dimensional expression data, which is massively parallel as well as light-weight, thus infinitely scalable. In CellAtlasSearch, we use a Graphical Processing Unit (GPU) friendly version of Locality Sensitive Hashing (LSH) for unmatched speedup in data processing and query. Currently, CellAtlasSearch features over 300 000 reference expression profiles including both bulk and single-cell data. I worked on this project under Prof Debarka Sengupta <a href="www.debarka.com">(lab)</a>. The server can be explored at this <a href="http://cellatlassearch.com/">(link)</a> and paper can be read <a href="https://academic.oup.com/nar/article/46/W1/W141/5000022">(here)</a></p>
-</li>
-<li>
-<h6 id="revealing-dynamic-architecture-of-lipidated-proteins">Revealing Dynamic Architecture of Lipidated Proteins</h6>
-<p>Proteins Post-Translational Modifications (PTMs) act as a multi-layered regulation mechanism for selective and controlled expression of cellular proteins. Lipidated proteins are one of the major components of virtually all cells, whereby lipid chains are attached covalently to the target residue site. We performed a proteome-scale integrated analysis on ∼10,000 unique lipidated  proteins  using  publicly  available  repositories and identified &gt;3,00,000 protein orthologs. The results of this comprehensive study show that location of lipid modification site  is  rapidly  evolving  and,  is  highly  coupled  with protein  function  and  location. We also build a neural network classifier to predict lipidation site. I worked on this project as my Master thesis under Prof Lipi Thukral <a href="https://www.igib.res.in/?q=LipiThukral">(lab)</a> and Prof Angshul Majumdar <a href="http://faculty.iiitd.ac.in/~angshul/">(lab)</a></p>
 </li>
 </ul>
+<p><div class="w3-row">
+    <div class="w3-col m4 l3 w3-center" style="padding-right: 20px;">
+      <img src="/images/ctc.png" alt="CTC"  class="w3-image " style="max-width: 100%; margin: 0 auto;">
+    </div>
+    <div class="w3-col m8 l9">
+     <p>Cancer cells, after detaching from solid tumors migrate through the bloodstream to colonize at distant organs, leading to the development of cancer metastases. Cancer cells under circulation are called <strong>circulating tumor cells (CTCs)</strong>. I worked on the project of integrative analysis of CTCs under Prof Debarka Sengupta <a href="www.debarka.com">(lab)</a> where we collated publicly available single-cell expression profiles of circulating tumor cells (CTCs) and showed that CTCs across cancers lie on a near-perfect continuum of epithelial to mesenchymal (EMT) transition. Integrative analysis of CTC transcriptomes also highlighted the inverse gene expression pattern between PD-L1 and MHC, which is implicated in cancer immunotherapy. More information about the work is published and can be read <a href="https://www.mdpi.com/2077-0383/9/4/1206">(here)</a></p> 
+    </div>
+</div>
+<span></span></p>
+<ul>
+<li>
+<h6 id="search-of-scrna-seq-profiles-using-gpu">Search of scRNA-seq profiles using GPU</h6>
+</li>
+</ul>
+<p><div class="w3-row">
+    <div class="w3-col m4 l3 w3-center" style="padding-right: 20px;">
+      <img src="/images/cell_search.png" alt="LSH"  class="w3-image " style="max-width: 100%; margin: 0 auto;">
+    </div>
+    <div class="w3-col m8 l9">
+     <p>An explosion in production of single-cell expression data has triggered the need for a search engine. To cater to the need of the hour, we developed CellAtlasSearch, a novel search architecture for high dimensional expression data, which is massively parallel as well as light-weight, thus infinitely scalable. In CellAtlasSearch, we use a Graphical Processing Unit (GPU) friendly version of <strong>Locality Sensitive Hashing (LSH)</strong> for unmatched speedup in data processing and query. Currently, CellAtlasSearch features over 300 000 reference expression profiles including both bulk and single-cell data. I worked on this project under Prof Debarka Sengupta <a href="www.debarka.com">(lab)</a>. The server can be explored at this <a href="http://cellatlassearch.com/">(link)</a> and paper can be read <a href="https://academic.oup.com/nar/article/46/W1/W141/5000022">(here)</a></p> 
+    </div>
+</div>
+<span></span></p>
+<ul>
+<li>
+<h6 id="revealing-dynamic-architecture-of-lipidated-proteins">Revealing Dynamic Architecture of Lipidated Proteins</h6>
+</li>
+</ul>
+<p><div class="w3-row">
+    <div class="w3-col m4 l3 w3-center" style="padding-right: 20px;">
+      <img src="/images/corlip.png" alt="Lipidated"  class="w3-image " style="max-width: 100%; margin: 0 auto;">
+    </div>
+    <div class="w3-col m8 l9">
+     <p><strong>Proteins Post-Translational Modifications (PTMs)</strong> act as a multi-layered regulation mechanism for selective and controlled expression of cellular proteins. <strong>Lipidated proteins</strong> are one of the major components of virtually all cells, whereby lipid chains are attached covalently to the target residue site. We performed a proteome-scale integrated analysis on ∼10,000 unique lipidated  proteins  using  publicly  available  repositories and identified &gt;3,00,000 protein orthologs. The results of this comprehensive study show that location of lipid modification site  is  rapidly  evolving  and,  is  highly  coupled  with protein  function  and  location. We also build a <em>neural network classifier</em> to predict lipidation site. I worked on this project as my Master thesis under Prof Lipi Thukral <a href="https://www.igib.res.in/?q=LipiThukral">(lab)</a> and Prof Angshul Majumdar <a href="http://faculty.iiitd.ac.in/~angshul/">(lab)</a></p> 
+    </div>
+</div>
+<span></span></p>
 
 </div>
 
@@ -220,9 +255,9 @@ Cancer evolution is driven by the emergence and selection of genomic alterations
       </main>
 
       <footer id='footer' class='footer'>
-        <div class='container sep-before'>Powered by <a title="Hugo" href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> and <a title="Minimo" href="https://themes.gohugo.io/minimo/" target="_blank" rel="noopener">Minimo Theme (modified)</a>
+        <div class='container sep-before'>Powered by <a title="Hugo" href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> and <a title="Minimo" href="https://github.com/MunifTanjim/minimo" target="_blank" rel="noopener">Minimo Theme (modified)</a>
 <div class='copyright'>
-  <p>Copyright &copy; 2021 Arvind Iyer </p>
+  <p>Copyright &copy; 2021-2024 Arvind Iyer </p>
 </div>
 
         </div>
