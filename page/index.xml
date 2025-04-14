@@ -6,7 +6,7 @@
     <description>Recent content in Pages on Arvind Iyer</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.arvindkiyer.com/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Research</title>
@@ -28,6 +28,13 @@
       <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://www.arvindkiyer.com/talk/</guid>
       <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;data-visulaization-with-ggplot2-2024&#34;&gt;Data Visulaization with ggplot2 (2024)&lt;/h6&gt;&#xA;I developed a &lt;strong&gt;short course&lt;/strong&gt; for doing data visulaization with ggplot2 in &lt;code&gt;R&lt;/code&gt;. The workshop page is availabe at this &lt;a href=&#34;https://arvindkiyer.com/data_visualization_with_ggplot/&#34;&gt;(link)&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;one-day-workshop-on-data-science-using-r-2018&#34;&gt;One day workshop on data science using R (2018)&lt;/h6&gt;&#xA;&lt;p&gt;I gave a &lt;strong&gt;hands on session on using PCA&lt;/strong&gt; for perfoming dimensionalty reduction of data in &lt;code&gt;R&lt;/code&gt;. The workshop page is availabe at this &lt;a href=&#34;https://sites.google.com/iiitd.ac.in/datascience&#34;&gt;(link)&lt;/a&gt;. The talk can be found in youtube via this &lt;a href=&#34;https://youtu.be/bQbHP04_Oc4?t=25655&#34;&gt;(link)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;short-guide-to-dive-into-scrna-seq-analysis-2020&#34;&gt;Short Guide to dive into scRNA seq analysis (2020)&lt;/h6&gt;&#xA;&lt;p&gt;I recorded a &lt;strong&gt;video tutorial&lt;/strong&gt; for performing &lt;strong&gt;scRNA seq analysis&lt;/strong&gt; as part of KeepScienceGoing Initative during the covid times for others to learn doing analysis of scRNA seq data from scratch. The video is embedded below. More details can be found at this &lt;a href=&#34;http://keepsciencegoing.org/ksg_tutorial_scrnaseq.html&#34;&gt;(link)&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mixomania</title>
+      <link>http://www.arvindkiyer.com/blog/</link>
+      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.arvindkiyer.com/blog/</guid>
+      <description>&lt;p&gt;Check out my &lt;a href=&#34;https://arvindkiyer.com/mixomania/&#34;&gt;&lt;strong&gt;blog&lt;/strong&gt;&lt;/a&gt;, where I share my thoughts on various topics.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
