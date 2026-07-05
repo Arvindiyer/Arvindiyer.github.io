@@ -1,47 +1,94 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Pages on Arvind Iyer</title>
-    <link>http://www.arvindkiyer.com/page/</link>
-    <description>Recent content in Pages on Arvind Iyer</description>
-    <generator>Hugo</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 14 Apr 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.arvindkiyer.com/page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Research</title>
-      <link>http://www.arvindkiyer.com/research/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.arvindkiyer.com/research/</guid>
-      <description>&lt;h2 id=&#34;current-research&#34;&gt;Current Research&lt;/h2&gt;&#xA;&lt;div class=&#34;w3-row&#34;&gt;&#xA;    &lt;div class=&#34;w3-col m4 l3 w3-center&#34; style=&#34;padding-right: 20px;&#34;&gt;&#xA;      &lt;img src=&#34;http://www.arvindkiyer.com/images/select_sim.png&#34; alt=&#34;Genomic Dependencies&#34;  class=&#34;w3-image &#34; style=&#34;max-width: 100%; margin: 0 auto;&#34;&gt;&#xA;    &lt;/div&gt;&#xA;    &lt;div class=&#34;w3-col m8 l9&#34;&gt;&#xA;     &lt;p&gt;&lt;h5 id=&#34;genomic-dependencies-in-cancer&#34;&gt;Genomic Dependencies in Cancer&lt;/h5&gt;&#xA;&lt;p&gt;Cancer evolution is driven by the &lt;strong&gt;emergence and selection&lt;/strong&gt; of genomic alterations. In a growing tumor, proliferating cancer cells accumulate alterations over time, some of which modify the tumor phenotype by conferring advantageous features. In evolutionary terms, these alterations are selected. Understanding &lt;em&gt;which alterations are selected and in which contexts&lt;/em&gt; do they provide an advantage are urgent questions in cancer genomics. When two alterations influence each other likelihood of being selected, we say they are evolutionary dependent. Currently working on expanding the previous work done by &lt;a href=&#34;https://doi.org/10.1016/j.ccell.2017.06.010&#34;&gt;(Mina et al)&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Publications</title>
-      <link>http://www.arvindkiyer.com/publication/</link>
-      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
-      <guid>http://www.arvindkiyer.com/publication/</guid>
-      <description>&lt;p&gt;For a complete list check my &lt;a href=&#34;https://scholar.google.com/citations?user=7ISycOUAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Talks and Courses</title>
-      <link>http://www.arvindkiyer.com/talk/</link>
-      <pubDate>Thu, 21 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://www.arvindkiyer.com/talk/</guid>
-      <description>&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;data-visulaization-with-ggplot2-2024&#34;&gt;Data Visulaization with ggplot2 (2024)&lt;/h6&gt;&#xA;I developed a &lt;strong&gt;short course&lt;/strong&gt; for doing data visulaization with ggplot2 in &lt;code&gt;R&lt;/code&gt;. The workshop page is availabe at this &lt;a href=&#34;https://arvindkiyer.com/data_visualization_with_ggplot/&#34;&gt;(link)&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;one-day-workshop-on-data-science-using-r-2018&#34;&gt;One day workshop on data science using R (2018)&lt;/h6&gt;&#xA;&lt;p&gt;I gave a &lt;strong&gt;hands on session on using PCA&lt;/strong&gt; for perfoming dimensionalty reduction of data in &lt;code&gt;R&lt;/code&gt;. The workshop page is availabe at this &lt;a href=&#34;https://sites.google.com/iiitd.ac.in/datascience&#34;&gt;(link)&lt;/a&gt;. The talk can be found in youtube via this &lt;a href=&#34;https://youtu.be/bQbHP04_Oc4?t=25655&#34;&gt;(link)&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;span&gt;&lt;/span&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;h6 id=&#34;short-guide-to-dive-into-scrna-seq-analysis-2020&#34;&gt;Short Guide to dive into scRNA seq analysis (2020)&lt;/h6&gt;&#xA;&lt;p&gt;I recorded a &lt;strong&gt;video tutorial&lt;/strong&gt; for performing &lt;strong&gt;scRNA seq analysis&lt;/strong&gt; as part of KeepScienceGoing Initative during the covid times for others to learn doing analysis of scRNA seq data from scratch. The video is embedded below. More details can be found at this &lt;a href=&#34;http://keepsciencegoing.org/ksg_tutorial_scrnaseq.html&#34;&gt;(link)&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Mixomania</title>
-      <link>http://www.arvindkiyer.com/blog/</link>
-      <pubDate>Mon, 14 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://www.arvindkiyer.com/blog/</guid>
-      <description>&lt;p&gt;Check out my &lt;a href=&#34;https://arvindkiyer.com/mixomania/&#34;&gt;&lt;strong&gt;blog&lt;/strong&gt;&lt;/a&gt;, where I share my thoughts on various topics.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Contact</title>
-      <link>http://www.arvindkiyer.com/contact/</link>
-      <pubDate>Sun, 10 Jun 2018 22:00:25 +0800</pubDate>
-      <guid>http://www.arvindkiyer.com/contact/</guid>
-      <description>&lt;p&gt;Email is the best way to reach me.&lt;/p&gt;&#xA;&lt;h2 id=&#34;details&#34;&gt;Details&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arvind Iyer&lt;/strong&gt;&lt;br&gt;&#xA;Ph.D in Quantitative Biology&lt;br&gt;&#xA;Email: &lt;a href=&#34;mailto:arvind.iyer@unil.ch&#34;&gt;arvind.iyer@unil.ch&lt;/a&gt;&lt;br&gt;&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Arvind Iyer</title><link>https://www.arvindkiyer.com/page/</link><description>Recent content in Pages on Arvind Iyer</description><generator>Hugo</generator><language>en</language><atom:link href="https://www.arvindkiyer.com/page/index.xml" rel="self" type="application/rss+xml"/><item><title>Research</title><link>https://www.arvindkiyer.com/research/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.arvindkiyer.com/research/</guid><description>&lt;!-- My current research connects two related questions: which genomic alterations are selected during cancer evolution, and how epigenetic and regulatory cell states are selected and reorganized as tumors evolve and respond to treatment. --&gt;
+&lt;h2 id="current--recent-works"&gt;Current &amp;amp; Recent Works&lt;/h2&gt;
+&lt;h3 id="epigenetic-determinants-of-cancer-cell-fate"&gt;Epigenetic determinants of cancer cell fate&lt;/h3&gt;
+&lt;p&gt;&lt;div class="w3-row"&gt;
+ &lt;div class="w3-col m4 l3 w3-center" style="padding-right: 20px;"&gt;
+ &lt;img src="https://www.arvindkiyer.com/images/tnbc_cell_fate.png" alt="TNBC" class="w3-image " style="max-width: 100%; margin: 0 auto;"&gt;
+ &lt;/div&gt;
+ &lt;div class="w3-col m8 l9"&gt;
+ &lt;p&gt;&lt;p&gt;This is current, ongoing work in the &lt;a href="https://lupienlab.uhnresearch.ca/"&gt;Lupien Lab&lt;/a&gt; at Princess Margaret Cancer Centre, UHN, focused on triple-negative breast cancer (TNBC) using single-cell RNA and ATAC (multiome) data. Central questions include:&lt;/p&gt;</description></item><item><title>Projects &amp; Software</title><link>https://www.arvindkiyer.com/projects/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.arvindkiyer.com/projects/</guid><description>&lt;div class="project-cards"&gt;
+
+ &lt;div class="project-card w3-row" style="margin-bottom:2em;"&gt;
+ 
+ &lt;div class="w3-col m4 l3 w3-center" style="padding-right:20px;"&gt;
+ &lt;img src="https://www.arvindkiyer.com/images/select_sim.png" alt="SelectSim logo" class="w3-image" style="max-width:100%; margin:0 auto;"&gt;
+ &lt;/div&gt;
+ &lt;div class="w3-col m8 l9"&gt;
+ 
+ &lt;h5&gt;SelectSim&lt;/h5&gt;
+ &lt;p&gt;A statistical framework for detecting co-mutational patterns among genomic alterations in cancer.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Problem:&lt;/strong&gt; Identifying which combinations of genomic alterations are selected together during cancer evolution, beyond what is expected by chance.&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;My contribution:&lt;/strong&gt; Contributed to development and application of the method, extending prior work on evolutionary dependencies (Mina et al.).&lt;/p&gt;
+ &lt;p&gt;&lt;strong&gt;Status:&lt;/strong&gt; Published, actively maintained&lt;/p&gt;
+ 
+ &lt;p&gt;
+ &lt;a href="https://github.com/CSOgroup/SelectSim" target="_blank" rel="noopener"&gt;GitHub&lt;/a&gt;
+ · &lt;a href="https://www.nature.com/articles/s41588-020-0703-5" target="_blank" rel="noopener"&gt;Publication&lt;/a&gt;
+ 
+ &lt;/p&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+
+ &lt;div class="project-card w3-row" style="margin-bottom:2em;"&gt;
+ 
+ &lt;div class="w3-col m4 l3 w3-center" style="padding-right:20px;"&gt;
+ &lt;img src="https://www.arvindkiyer.com/images/cell_search.png" alt="CellAtlasSearch logo" class="w3-image" style="max-width:100%; margin:0 auto;"&gt;
+ &lt;/div&gt;
+ &lt;div class="w3-col m8 l9"&gt;
+ 
+ &lt;h5&gt;CellAtlasSearch&lt;/h5&gt;
+ &lt;p&gt;A scalable search engine for single-cell and bulk expression profiles, using GPU-accelerated Locality-Sensitive Hashing (LSH) for fast similarity search across large reference atlases.&lt;/p&gt;</description></item><item><title>Publications</title><link>https://www.arvindkiyer.com/publication/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.arvindkiyer.com/publication/</guid><description>&lt;p&gt;For a complete and up-to-date list, see my &lt;a href="https://scholar.google.com/citations?user=0q8O0ecAAAAJ"&gt;Google Scholar profile&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- 
+
+
+&lt;div class="publication-list"&gt;
+
+
+ &lt;div class="publication-item" style="margin-bottom:1.2em;"&gt;
+ &lt;p style="margin-bottom:0.2em;"&gt;&lt;strong&gt;Arvind Iyer&lt;/strong&gt;, Miljan Petrovic, Debora Sesia, Luca Nanni, Marco Mina, Giovanni Ciriello&lt;/p&gt;
+ &lt;p style="margin-bottom:0.2em;"&gt;
+ &lt;em&gt;Evolving patterns of co-mutations from tumor initiation to metastatic progression.&lt;/em&gt;
+ &lt;strong&gt;To be updated soon&lt;/strong&gt;
+ (Accepted, 2026)
+ — &lt;span class="pub-note"&gt;First author&lt;/span&gt;
+ 
+ &lt;/p&gt;
+ &lt;/div&gt;
+ 
+
+
+
+ &lt;div class="publication-item" style="margin-bottom:1.2em;"&gt;
+ &lt;p style="margin-bottom:0.2em;"&gt;Ruxandra A Lambuta, Luca Nanni, Yuanlong Liu, Juan Diaz-Miyar, &lt;strong&gt;Arvind Iyer&lt;/strong&gt;, Daniele Tavernari, Natalya Katanayeva, Giovanni Ciriello, Elisa Oricchio&lt;/p&gt;
+ &lt;p style="margin-bottom:0.2em;"&gt;
+ &lt;em&gt;Whole-genome doubling drives oncogenic loss of chromatin segregation.&lt;/em&gt;
+ &lt;strong&gt;Nature&lt;/strong&gt;
+ (2023)
+ — &lt;span class="pub-note"&gt;Contributing author&lt;/span&gt;
+ — &lt;a href="https://www.nature.com/articles/s41586-023-05794-2" target="_blank" rel="noopener"&gt;Link&lt;/a&gt;
+ &lt;/p&gt;</description></item><item><title>Teaching &amp; Talks</title><link>https://www.arvindkiyer.com/teaching-talks/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.arvindkiyer.com/teaching-talks/</guid><description>&lt;h2 id="invited-talks"&gt;Invited talks&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;h6 id="big-data-in-biology-2023"&gt;Big Data in Biology (2023)&lt;/h6&gt;
+&lt;p&gt;I gave a &lt;strong&gt;flash talk&lt;/strong&gt; at the Basel Computational Biology Conference (BC2), held in Basel, Switzerland.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h6 id="short-guide-to-diving-into-scrna-seq-analysis-2020"&gt;Short Guide to Diving into scRNA-seq Analysis (2020)&lt;/h6&gt;
+&lt;p&gt;I recorded a &lt;strong&gt;video tutorial&lt;/strong&gt; for performing &lt;strong&gt;scRNA-seq analysis&lt;/strong&gt;, as part of the KeepScienceGoing Initiative during the COVID-19 pandemic, for others to learn how to analyze scRNA-seq data from scratch. More details at this &lt;a href="http://keepsciencegoing.org/ksg_tutorial_scrnaseq.html"&gt;(link)&lt;/a&gt;.&lt;/p&gt;
+ &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/SCQ5gedPDn8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;h6 id="hands-on-session-on-pca-for-dimensionality-reduction-2018"&gt;Hands-on Session on PCA for Dimensionality Reduction (2018)&lt;/h6&gt;
+&lt;p&gt;I gave a &lt;strong&gt;hands-on session&lt;/strong&gt; on using Principal Component Analysis (PCA) for dimensionality reduction of data in &lt;code&gt;R&lt;/code&gt;, at the EMBO-INDIA Symposia on Big Data in Biomedicine, New Delhi. The talk can be found on YouTube &lt;a href="https://youtu.be/bQbHP04_Oc4?t=25655"&gt;(link)&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Mixomania</title><link>https://www.arvindkiyer.com/blog/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.arvindkiyer.com/blog/</guid><description>&lt;p&gt;I write occasionally on &lt;a href="https://arvindkiyer.com/mixomania/"&gt;&lt;strong&gt;Mixomania&lt;/strong&gt;&lt;/a&gt;, covering computational biology and related topics.&lt;/p&gt;</description></item><item><title>Contact</title><link>https://www.arvindkiyer.com/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.arvindkiyer.com/contact/</guid><description>&lt;p&gt;Email is the best way to reach me.&lt;/p&gt;
+&lt;h2 id="details"&gt;Details&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Arvind Iyer&lt;/strong&gt;&lt;br&gt;
+Postdoctoral Researcher, Princess Margaret Cancer Centre, University Health Network (UHN) — Toronto, Canada&lt;br&gt;
+&lt;a href="https://lupienlab.uhnresearch.ca/"&gt;Lupien Lab&lt;/a&gt;&lt;br&gt;
+Email: &lt;a href="mailto:aiyerpostdoc@gmail.com"&gt;aiyerpostdoc@gmail.com&lt;/a&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h2 id="elsewhere"&gt;Elsewhere&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href="https://github.com/arvindiyer"&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://linkedin.com/in/arvindiyer1994"&gt;LinkedIn&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://scholar.google.com/citations?user=0q8O0ecAAAAJ"&gt;Google Scholar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://orcid.org/0000-0002-8247-700X"&gt;ORCID&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description></item></channel></rss>
